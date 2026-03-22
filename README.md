@@ -1,7 +1,7 @@
 # Scalable Event Processing Pipeline (Kafka + PySpark)
 
 ## Overview
-This project demonstrates a real-time event processing pipeline using Apache Kafka and PySpark. It simulates booking events and processes them using a streaming architecture.
+This project demonstrates a prototype implementation of real-time event processing pipeline using Apache Kafka and PySpark. It simulates booking events and processes them using a streaming architecture.
 
 ## Architecture
 Producer → Kafka Topic → PySpark Streaming → Aggregation
